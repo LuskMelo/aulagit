@@ -9,7 +9,7 @@ public class Funcionario {
 		 int n1, n2;
 		 double n3;
 
-		System.out.println("Digite o número do funcionario");
+		System.out.println("Digite o número do funcionário");
 		n1 = sc.nextInt();
 		System.out.println("Digite as horas trabalhadas pelo funcionario");
 		n2 = sc.nextInt();
