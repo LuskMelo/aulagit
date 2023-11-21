@@ -18,7 +18,7 @@ public class Fatorarcodido {
     System.out.println("Você tem, R$" + dinheiro + " na conta.");
 
     if (dinheiro < 500) {
-      System.out.print("Cuidado! Aposte com cuidado. \n");
+      System.out.print("Cuidado! Aposte com cautela. \n");
     } else if (dinheiro < 1000) {
       System.out.print("Considere apostar com moderação. \n");
     } else {
